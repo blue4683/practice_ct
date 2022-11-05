@@ -9,7 +9,7 @@
 # 문제 출처
 <br/>
 
-[<p align="center"><img src=./img/swea.png width=50% title="SW Expert Academy"></p>](https://swexpertacademy.com/)
+<p align="center"><a href="https://swexpertacademy.com/main/main.do"><img src=./img/swea.png width=50% title="SW Expert Academy"></p>
 <br/>
 
 [<p align="center"><img src=./img/baekjoon.png width=50% title="BAEKJOON"></p>](https://www.acmicpc.net/)
