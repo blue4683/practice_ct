@@ -1,3 +1,4 @@
-demo/** linguist-documentation=false
-demo/** linguist-vendored=false
-*.py linguist-vendored=false
+BOJ/** linguist-documentation=false
+BOJ/** linguist-vendored=false
+SWEA/** linguist-documentation=false
+SWEA/** linguist-vendored=false
