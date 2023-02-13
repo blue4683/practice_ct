@@ -21,3 +21,12 @@
 |[BOJ](https://www.acmicpc.net/problem/11659)|11659|구간 합 구하기 4|
 |[BOJ](https://www.acmicpc.net/problem/11660)|11660|구간 합 구하기 5|
 |[BOJ](https://www.acmicpc.net/problem/10986)|10986|나머지 합|
+
+## 3주차(02.10 ~ 02.16)
+- [문제집//자료구조//투 포인터] 문제풀이
+
+| **출처** | **문제번호** | **문제** |
+| -------- | ------------ | -------- |
+|[BOJ](https://www.acmicpc.net/problem/2018)|2018|수들의 합 5|
+|[BOJ](https://www.acmicpc.net/problem/1940)|1940|주몽|
+|[BOJ](https://www.acmicpc.net/problem/1253)|1253|좋다|
