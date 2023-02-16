@@ -129,7 +129,7 @@
 </br>
 <p align="center"><img src=../../img/heap_delete_3.png width=50%></p>
 
-<style>
+<!-- <style>
     @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100);
 
     body {
@@ -274,4 +274,4 @@
     td.text-right {
     text-align: right;
     }
-</style>
+</style> -->
