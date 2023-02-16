@@ -46,7 +46,10 @@
 </table>
 
 </br>
-<p align="center"><img src=../../img/heap.png width=50% title="SW Expert Academy"></p>
+<figure>
+    <p align="center"><img src=../../img/heap.png width=50% title="SW Expert Academy"></p>
+    <figcaption align='center'><a href="https://ko.wikipedia.org/wiki/%ED%9E%99_(%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0)" target='blank'>최대 힙 구조</a></figcaption>
+</figure>
 
 ## 힙의 기능
 - 예시 최대 힙
