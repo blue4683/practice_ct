@@ -30,3 +30,11 @@
 |[BOJ](https://www.acmicpc.net/problem/2018)|2018|수들의 합 5|
 |[BOJ](https://www.acmicpc.net/problem/1940)|1940|주몽|
 |[BOJ](https://www.acmicpc.net/problem/1253)|1253|좋다|
+
+## 4주차(02.17 ~ 02.23)
+- [문제집//자료구조//슬라이딩 윈도우] 문제풀이
+
+| **출처** | **문제번호** | **문제** |
+| -------- | ------------ | -------- |
+|[BOJ](https://www.acmicpc.net/problem/12891)|12891|DNA 비밀번호|
+|[BOJ](https://www.acmicpc.net/problem/11003)|11003|최솟값 찾기|
