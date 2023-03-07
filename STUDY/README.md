@@ -38,3 +38,26 @@
 | -------- | ------------ | -------- |
 |[BOJ](https://www.acmicpc.net/problem/12891)|12891|DNA 비밀번호|
 |[BOJ](https://www.acmicpc.net/problem/11003)|11003|최솟값 찾기|
+
+## 5주차,6주차(02.24 ~ 03.06)
+- 삼성 SW 역량테스트 대비 문제풀이
+
+| **출처** | **문제번호** | **문제** |
+| --- | --- | --- |
+| [BOJ](https://www.acmicpc.net/problem/2116)  | 2116  | 주사위 쌓기 |
+| [BOJ](https://www.acmicpc.net/problem/2563)  | 2563  | 색종이 |
+| [BOJ](https://www.acmicpc.net/problem/2564)  | 2564  | 경비원 |
+| [BOJ](https://www.acmicpc.net/problem/2578)  | 2578  | 빙고 |
+| [BOJ](https://www.acmicpc.net/problem/2605)  | 2605  | 줄 세우기 |
+| [BOJ](https://www.acmicpc.net/problem/2628)  | 2628  | 종이자르기 |
+| [BOJ](https://www.acmicpc.net/problem/2669)  | 2669  | 직사각형 네개의 합집합의 면적 구하기 |
+| [BOJ](https://www.acmicpc.net/problem/13300) | 13300 | 방 배정 |
+| [BOJ](https://www.acmicpc.net/problem/14696) | 14696 | 딱지놀이 |
+
+## 6주차(03.07 ~ 03.08)
+- [문제집//자료구조//스택과 큐] 문제풀이
+
+| **출처** | **문제번호** | **문제** |
+| -------- | ------------ | -------- |
+|[BOJ](https://www.acmicpc.net/problem/1874)|1874|스택 수열|
+|[BOJ](https://www.acmicpc.net/problem/17298)|17298|오큰수|
