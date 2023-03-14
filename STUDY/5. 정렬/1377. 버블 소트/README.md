@@ -1,5 +1,5 @@
-# BAEKJOON ONLINE JUDGE - 2750. 수 정렬하기
-* [문제출처](https://www.acmicpc.net/problem/2750 "2750. 수 정렬하기")
+# BAEKJOON ONLINE JUDGE - 1377. 버블 소트
+* [문제출처](https://www.acmicpc.net/problem/1377 "1377. 버블 소트")
 
 ## 알고리즘 분류
 - 구현
