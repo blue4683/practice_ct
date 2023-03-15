@@ -61,3 +61,14 @@
 | -------- | ------------ | -------- |
 |[BOJ](https://www.acmicpc.net/problem/1874)|1874|스택 수열|
 |[BOJ](https://www.acmicpc.net/problem/17298)|17298|오큰수|
+
+## 7주차(03.09 ~ 03.15)
+- [문제집//자료구조//스택과 큐, 정렬] 문제풀이
+
+| **출처** | **문제번호** | **문제** |
+| --- | --- | --- |
+| [BOJ](https://www.acmicpc.net/problem/2164)  | 2164  | 카드2 |
+| [BOJ](https://www.acmicpc.net/problem/11286) | 11286 | 절댓값 힙 |
+| [BOJ](https://www.acmicpc.net/problem/2750)  | 2750  | 수 정렬하기1 |
+| [BOJ](https://www.acmicpc.net/problem/1377)  | 1377  | 버블 소트 |
+| [BOJ](https://www.acmicpc.net/problem/1427)  | 1427  | 소트인사이드 |
