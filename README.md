@@ -7,6 +7,16 @@
 
 <br/><br/>
 
+# Algorithm Study in SSAFY
+
+> ### 1일 1문제 도전 + 코딩 테스트 문제집 풀어본 후 깃허브에 커밋
+
+- 기간 : 2023.01.30 ~ 
+- 진행 : 매주 목요일 (온라인 + 오프라인)
+- 언어 : `Python`
+- 문제 출처 : [BOJ](https://www.acmicpc.net/ "Baekjoon Online Judge"), [SWEA](https://swexpertacademy.com/main/main.do "SW Expert Academy")
+- 문제집 : DO it! 알고리즘 코딩 테스트 - 파이썬 편
+
 # 문제 출처
 
 <br/>
