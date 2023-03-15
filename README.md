@@ -1,11 +1,7 @@
 # 코딩테스트 준비
 
-<br/>
-
 - 알고리즘 및 자료구조 공부
 - 문제풀이(SW Expert Academy, BAEKJOON, PROGRAMMERS)
-
-<br/><br/>
 
 # Algorithm Study in SSAFY
 
