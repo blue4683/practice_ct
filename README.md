@@ -3,7 +3,7 @@
 - 알고리즘 및 자료구조 공부
 - 문제풀이(SW Expert Academy, BAEKJOON, PROGRAMMERS)
 
-# Algorithm Study in SSAFY
+# [Algorithm Study in SSAFY](https://github.com/blue4683/practice_ct/tree/main/STUDY)
 
 > ### 1일 1문제 도전 + 코딩 테스트 문제집 풀어본 후 깃허브에 커밋
 
