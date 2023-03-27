@@ -69,6 +69,17 @@
 | --- | --- | --- |
 | [BOJ](https://www.acmicpc.net/problem/2164)  | 2164  | 카드2 |
 | [BOJ](https://www.acmicpc.net/problem/11286) | 11286 | 절댓값 힙 |
-| [BOJ](https://www.acmicpc.net/problem/2750)  | 2750  | 수 정렬하기1 |
+| [BOJ](https://www.acmicpc.net/problem/2750)  | 2750  | 수 정렬하기 1 |
 | [BOJ](https://www.acmicpc.net/problem/1377)  | 1377  | 버블 소트 |
 | [BOJ](https://www.acmicpc.net/problem/1427)  | 1427  | 소트인사이드 |
+
+## 8주차(03.16 ~ 03.22)
+- [문제집//자료구조//정렬] 문제풀이
+
+| **출처** | **문제번호** | **문제** |
+| --- | --- | --- |
+| [BOJ](https://www.acmicpc.net/problem/11399)  | 11399  | ATM |
+| [BOJ](https://www.acmicpc.net/problem/11004)  | 11004  | K번째 수 |
+| [BOJ](https://www.acmicpc.net/problem/2751)   | 2751   | 수 정렬하기 2 |
+| [BOJ](https://www.acmicpc.net/problem/1517)   | 1517   | 버블 정렬 프로그램 2 |
+| [BOJ](https://www.acmicpc.net/problem/10989)  | 10989  | 수 정렬하기 3 |
