@@ -23,6 +23,7 @@ while s<=e:
     else: e=mid-1
 
 print(s)
+
 # import sys
 # input=sys.stdin.readline
 
