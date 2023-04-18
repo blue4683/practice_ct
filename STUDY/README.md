@@ -74,7 +74,7 @@
 | [BOJ](https://www.acmicpc.net/problem/1427)  | 1427  | 소트인사이드 |
 
 ## 8주차(03.16 ~ 03.22)
-- [문제집//자료구조//정렬] 문제풀이
+- [문제집//정렬] 문제풀이
 
 | **출처** | **문제번호** | **문제** |
 | --- | --- | --- |
@@ -83,3 +83,46 @@
 | [BOJ](https://www.acmicpc.net/problem/2751)   | 2751   | 수 정렬하기 2 |
 | [BOJ](https://www.acmicpc.net/problem/1517)   | 1517   | 버블 정렬 프로그램 2 |
 | [BOJ](https://www.acmicpc.net/problem/10989)  | 10989  | 수 정렬하기 3 |
+
+## 9주차(03.23 ~ 03.29)
+- [문제집//탐색] 문제풀이
+
+| **출처** | **문제번호** | **문제** |
+| --- | --- | --- |
+| [BOJ](https://www.acmicpc.net/problem/11724)  | 11724  | 연결 요소의 개수 |
+| [BOJ](https://www.acmicpc.net/problem/2023)   | 2023   | 신기한 소수 |
+| [BOJ](https://www.acmicpc.net/problem/13023)  | 13023  | ABCDE |
+| [BOJ](https://www.acmicpc.net/problem/1260)   | 1260   | DFS와 BFS |
+| [BOJ](https://www.acmicpc.net/problem/2178)   | 2178   | 미로 탐색 |
+
+## 10주차(03.30 ~ 04.05)
+- [문제집//탐색, 그리디] 문제풀이
+
+| **출처** | **문제번호** | **문제** |
+| --- | --- | --- |
+| [BOJ](https://www.acmicpc.net/problem/1167)   | 1167   | 트리의 지름 |
+| [BOJ](https://www.acmicpc.net/problem/1920)   | 1920   | 수 찾기 |
+| [BOJ](https://www.acmicpc.net/problem/2343)   | 2343   | 기타 레슨 |
+| [BOJ](https://www.acmicpc.net/problem/1300)   | 1300   | K번째 수 |
+| [BOJ](https://www.acmicpc.net/problem/11047)  | 11047  | 동전 0 |
+
+## 11주차(04.06 ~ 04.12)
+- [문제집//그리디] 문제풀이
+
+| **출처** | **문제번호** | **문제** |
+| --- | --- | --- |
+| [BOJ](https://www.acmicpc.net/problem/1715)   | 1715   | 카드 정렬하기 |
+| [BOJ](https://www.acmicpc.net/problem/1744)   | 1744   | 수 묶기 |
+| [BOJ](https://www.acmicpc.net/problem/1931)   | 1931   | 회의실 배정 |
+| [BOJ](https://www.acmicpc.net/problem/1541)   | 1541   | 잃어버린 괄호 |
+
+## 12주차(04.13 ~ 04.19)
+- [문제집//정수론] 문제풀이
+
+| **출처** | **문제번호** | **문제** |
+| --- | --- | --- |
+| [BOJ](https://www.acmicpc.net/problem/1929)   | 1929   | 소수 구하기 |
+| [BOJ](https://www.acmicpc.net/problem/1456)   | 1456   | 거의 소수 |
+| [BOJ](https://www.acmicpc.net/problem/1747)   | 1747   | 소수&펠린드롬 |
+| [BOJ](https://www.acmicpc.net/problem/1016)   | 1016   | 제곱 ㄴㄴ 수 |
+| [BOJ](https://www.acmicpc.net/problem/11689)  | 11689  | GCD(n, k) = 1 |
