@@ -1,6 +1,6 @@
-# BAEKJOON ONLINE JUDGE - 2293. 동전 1
+# BAEKJOON ONLINE JUDGE - 2133. 타일 채우기
 
-- [문제출처](https://www.acmicpc.net/problem/2293 "2293. 동전 1")
+- [문제출처](https://www.acmicpc.net/problem/2133 "2133. 타일 채우기")
 
 ## 알고리즘 분류
 
