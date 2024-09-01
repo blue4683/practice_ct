@@ -1,6 +1,6 @@
 # BAEKJOON ONLINE JUDGE - 17266. 어두운 굴다리
 
-- [문제출처](https://www.acmicpc.net/problem/13305 '17266. 어두운 굴다리')
+- [문제출처](https://www.acmicpc.net/problem/17266 '17266. 어두운 굴다리')
 
 ## 알고리즘 분류
 
