@@ -14,7 +14,7 @@ def dijkstra(s):
             continue
 
         for xx, c in graph[x]:
-            if c + dist >= dists[xx] or h[x] >= h[xx]:
+            if c + dist >= dists[xx]:
                 continue
 
             dists[xx] = c + dist
@@ -28,8 +28,11 @@ h = [0] + list(map(int, input().split()))
 graph = [[] for _ in range(n + 1)]
 for _ in range(m):
     a, b, c = map(int, input().split())
-    graph[a].append((b, c))
-    graph[b].append((a, c))
+    if h[a] < h[b]:
+        graph[a].append((b, c))
+
+    if h[b] < h[a]:
+        graph[b].append((a, c))
 
 dists_a = dijkstra(1)
 dists_b = dijkstra(n)
