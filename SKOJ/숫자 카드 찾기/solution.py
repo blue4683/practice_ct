@@ -1,0 +1,5 @@
+n = int(input())
+arr = set(map(int, input().split()))
+m = int(input())
+result = list(map(lambda x: int(int(x) in arr), input().split()))
+print(*result)
